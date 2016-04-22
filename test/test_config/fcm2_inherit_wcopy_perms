@@ -1,0 +1,2 @@
+svn co -q $REPOS_URL/branches/dev/Share/add_file $BASE_DIR/add_file
+chmod o-r $BASE_DIR/add_file/subroutine/hello_sub.F90

@@ -110,6 +110,7 @@ fcm2_inc_devnull
 fcm2_inherit_invalid_path
 fcm2_inherit_redefine_fail
 fcm2_inherit_redefine_ok
+fcm2_inherit_wcopy_perms
 fcm2_invalid_base_url
 fcm2_invalid_branch_url
 fcm2_invalid_branch_url2
